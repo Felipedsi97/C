@@ -128,7 +128,7 @@ void main(void) {
     serialInit();
     timerInit();
     int tempo;
-    //inicializações
+    //inicializaÃ§Ãµes
     for (;;) {
         timerReset(5000);
         ssdUpdate();
